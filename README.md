@@ -1,0 +1,1 @@
+The contents in this file extract the revenue data for Tesla and GameStop and build a dashboard, leveraging Python programming language, to compare the price of the stock vs the revenue. This is part 5 of a series of 10 courses towards the IBM certificate in Data Science specilization.
